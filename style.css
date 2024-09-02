@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color:#432982 ;
+    color: white;
+    font-family:monospace ;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    background-color:#53567B ;
+    border-radius: 20px;
+    margin: 35px;
+    border:#7278AF solid ;
+}
+button{
+    background-color:#FD8E4A ;
+    border:#f0ebbb thick ;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 0 20px;
+
+}
+button:hover{
+    background-color:#ffae7b ;
+}
+.container>p{
+    margin: 0;
+}
+.usercontrol{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    color: yellow;
+}
